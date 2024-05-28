@@ -1,0 +1,5 @@
+.add_to_cart:hover {
+    background: linear-gradient(90deg, #812868 0%, #f954a4 100%) !important;
+    color: #FFF !important;
+    border: 0px;
+}
